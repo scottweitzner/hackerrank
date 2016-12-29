@@ -1,2 +1,2 @@
-# hackerrank
-HackerRank practice problems
+# HackerRank Practice Problems
+
