@@ -1,0 +1,15 @@
+A bag contains 3 red marbles and 4 blue marbles. Then, 2 marbles are drawn from the bag, at random, without replacement.
+If the first marble drawn is red, what is the probability that the second marble is blue?
+
+
+After Drawing red:
+
+2 red 4 blue = 6 total
+
+
+Probability of drawing a blue next:
+
+4/6 = 2/3
+
+
+Answer = 2/3
