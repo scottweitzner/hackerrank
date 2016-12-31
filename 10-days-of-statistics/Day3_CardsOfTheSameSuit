@@ -1,0 +1,12 @@
+You draw 2 cards from a standard-card deck without replacing them. What is the probability
+that both cards are of the same suit?
+
+Probability of drawing 1:
+
+13/52
+
+Probability of drawing 2:
+
+12/51
+
+Therefore probability of drawing 2 of same suit is 12/51

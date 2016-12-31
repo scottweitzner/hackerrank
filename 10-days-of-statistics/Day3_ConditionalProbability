@@ -1,0 +1,19 @@
+Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
+
+4 possibilities:
+
+Girl Girl
+Boy  Boy
+Girl Boy
+Boy  Girl
+
+3 cases where 1 is a Boy
+
+Boy  Boy
+Girl Boy
+Boy  Girl
+
+Of there only 1/3 of the cases have 2 Boys
+
+Answer = 1/3
+
